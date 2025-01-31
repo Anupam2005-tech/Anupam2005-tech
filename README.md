@@ -39,7 +39,7 @@ Here are some of the technologies and tools I work with:
 ## 🌐 Connect with Me
 Feel free to connect with me on:
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anupam2005-tech/)
-- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/anupam2005-tech)
+- [![LinkedIn](https://www.linkedin.com/in/anupam-bhowmik-436a2027b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 
 Thanks for visiting my profile! 😊
