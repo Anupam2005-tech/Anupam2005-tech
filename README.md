@@ -36,10 +36,4 @@ Here are some of the technologies and tools I work with:
   - ![Git]
 
 
-## 🌐 Connect with Me
-Feel free to connect with me on:
-
-- [![LinkedIn](https://www.linkedin.com/in/anupam-bhowmik-436a2027b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
-
 Thanks for visiting my profile! 😊
