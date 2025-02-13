@@ -18,7 +18,6 @@ Here are some of the technologies and tools I work with:
 - ![JavaScript]
 - ![Tailwind]
 - ![Bootstrap]
-- ![Firebase]
 
 
 - **Web Development**: 
