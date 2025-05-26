@@ -11,28 +11,18 @@ I'm a passionate developer with a keen interest in technology and programming. I
 ## 🛠️ Skills
 Here are some of the technologies and tools I work with:
 
-- **Languages**:
-- ![FastAPI]
-- ![React]
-- ![Python]
-- ![JavaScript]
-- ![Tailwind]
-- ![Bootstrap]
+- **Languages** & **Tools**:
+- Typescript
+- Node.js
+- Express.js
+- React.js
+- Python
+- FastApi
+- MongoDB
+- Git
+- FireBase
+- 
 
-
-- **Web Development**: 
-  - ![React]
-  - ![Tailwind]
-- ![Bootstrap]
-
-
-- **Databases**: 
-  - ![MySQL]
-  - ![PostgreSQL]
-
-
-- **Tools**: 
-  - ![Git]
 
 
 Thanks for visiting my profile! 😊
