@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:MeetNex<br>🌱 I’m currently learning:@DSA<br>💬 Ask me about:Tech related things 
+🔭 I’m currently working on:Strata.AI<br>🌱 I’m currently learning:@DSA<br>💬 Ask me about:Tech related things 
 
 
 ## 🌐 Socials:
